@@ -38,3 +38,4 @@ Input data fields will be as follows-
 
 ## Run
 * Open `Jupyter Notebook mlnd_capstone_project.ipynb` in the root folder.
+
